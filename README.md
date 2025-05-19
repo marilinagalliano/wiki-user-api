@@ -107,9 +107,9 @@ La documentación está generada automáticamente con Swagger usando anotaciones
 
 ## Captura de Swagger UI
 
+![Selección_109](https://github.com/user-attachments/assets/a4c5f316-4aa2-4a54-8249-1de61db8ced5)
 
----![Selección_109](https://github.com/user-attachments/assets/a4c5f316-4aa2-4a54-8249-1de61db8ced5)
-
+---
 
 ## Autor
 
