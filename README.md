@@ -113,6 +113,6 @@ La documentación está generada automáticamente con Swagger usando anotaciones
 
 ## Autor
 
-Este proyecto fue desarrollado como ejercicio de arquitectura, aplicación de un stack moderno y buena documentación. Si te interesa, podés escribirme y pedirme el repo con el código de la API RESTful para clonar.
+Si te interesa, podés escribirme y pedirme el repo con el código de la API RESTful para clonar.
 
-**Autor:** [@marilinagalliano](https://github.com/marilinagalliano)
+[@marilinagalliano](https://github.com/marilinagalliano)
