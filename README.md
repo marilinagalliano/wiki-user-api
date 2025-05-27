@@ -38,8 +38,8 @@ La arquitectura sigue el patrón hexagonal (Ports & Adapters), organizando las r
 
 | Carpeta / Archivo                     | Descripción                                                                                        |
 | ------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| `application/in`                      | Interfaces de entrada (casos de uso). Define los contratos de uso del dominio.                     |
-| `application/out`                     | Interfaces de salida (puertos de repositorio). Define cómo el dominio espera acceder a los datos.  |
+| `application/port/in`                 | Interfaces de entrada (casos de uso). Define los contratos de uso del dominio.                     |
+| `application/port/out`                | Interfaces de salida (puertos de repositorio). Define cómo el dominio espera acceder a los datos.  |
 | `application/usecase`                 | Implementaciones de los casos de uso. Contienen la lógica del negocio.                             |
 | `domain/model`                        | Entidades del dominio (p. ej. `User`). Son independientes de frameworks y detalles técnicos.       |
 | `infraestructure/delivery/controller` | Controladores REST que reciben las peticiones HTTP y llaman a los casos de uso.                    |
